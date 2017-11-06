@@ -325,5 +325,6 @@ footer {
 
 #details div div{
 	display: inline-block;
+	padding: 0 6%;
 }
 /* code examples copyright Jonathan Grover 2012 */
