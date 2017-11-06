@@ -110,6 +110,10 @@ iframe {
 	margin: 0 auto;
 }
 
+.inline {
+	display: inline;
+}
+
 .shadow {
 	box-shadow: 0 3px 10px #333;
 }
