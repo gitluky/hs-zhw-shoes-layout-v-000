@@ -304,6 +304,7 @@ iframe {
 
 .first {
 	margin-left: 0;
+	left: 0;
 }
 
 /********** Footer **********/
