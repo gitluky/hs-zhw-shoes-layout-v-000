@@ -298,9 +298,9 @@ iframe {
 	float: left;
 }
 
-/*[class*="col-"] {
+[class*="col-"] {
 	margin: 2% 0 2% 2%;
-}*/
+}
 
 .first {
 	margin-left: 0;
