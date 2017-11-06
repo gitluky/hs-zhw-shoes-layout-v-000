@@ -328,11 +328,8 @@ footer {
 	padding: 0 12% 0 2%;
 }
 
-.relative {
+.top {
 	position: relative;
-}
-.top_relative {
-	position: relative;
-	top: 0;
+	top: -32;
 }
 /* code examples copyright Jonathan Grover 2012 */
