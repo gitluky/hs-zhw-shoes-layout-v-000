@@ -323,4 +323,7 @@ footer {
 		text-decoration: underline;
 	}
 
+#details div div{
+	display: inline-block;
+}
 /* code examples copyright Jonathan Grover 2012 */
