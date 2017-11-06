@@ -111,7 +111,7 @@ iframe {
 }
 
 .inline {
-	display: inline;
+	display: inline-block;
 }
 
 .shadow {
