@@ -299,7 +299,7 @@ iframe {
 }
 
 [class*="col-"] {
-	margin: 2%;
+	margin: 2% 2%;
 }
 
 .first {
