@@ -291,17 +291,15 @@ iframe {
 .col-1 {
 	width: 32%;
 	float: left;
-	height: 100%;
 }
 
 .col-2 {
 	width: 66%;
 	float: left;
-	height: 100%;
 }
 
 [class*="col-"] {
-	margin-left: 2%;
+	margin 2%;
 }
 
 .first {
