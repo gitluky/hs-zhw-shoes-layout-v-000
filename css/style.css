@@ -306,6 +306,9 @@ iframe {
 	margin-left: 0%;
 }
 
+.clear {
+	clear: both;
+}
 /********** Footer **********/
 
 footer {
