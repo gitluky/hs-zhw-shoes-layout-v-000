@@ -288,6 +288,17 @@ iframe {
 		text-decoration: underline;
 	}
 
+.col-1 {
+	width: 32%;
+}
+
+.col-2 {
+	width: 66%;
+}
+
+.first-col {
+	margin-left: 2%;
+}
 
 /********** Footer **********/
 
