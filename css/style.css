@@ -299,11 +299,11 @@ iframe {
 }
 
 [class*="col-"] {
-	margin-right: 2%;
+	margin-left: 2%;
 }
 
 .first {
-	margin-right: 0%;
+	margin-left: 0%;
 }
 
 /********** Footer **********/
