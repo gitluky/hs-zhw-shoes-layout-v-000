@@ -298,6 +298,10 @@ iframe {
 	float: left;
 }
 
+[class*="col-"] {
+	margin-left: 2%;
+}
+
 /********** Footer **********/
 
 footer {
